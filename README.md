@@ -1,4 +1,4 @@
-# 8.TRANSIENT-ANALYSIS-OF-SERIES-RLC-CIRCUIT
+![WhatsApp Image 2026-03-17 at 8 23 42 PM](https://github.com/user-attachments/assets/42a98623-531f-4c66-a19f-d3891fc937df)# 8.TRANSIENT-ANALYSIS-OF-SERIES-RLC-CIRCUIT
 
 **AIM:**
 
@@ -22,17 +22,24 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2026-03-17 at 8 23 42 PM](https://github.com/user-attachments/assets/0d9c5899-1714-451d-a1e2-58462fb85218)
+
 
 
 
 **TABULATION:**
+![WhatsApp Image 2026-03-17 at 8 25 45 PM](https://github.com/user-attachments/assets/356d6157-ebfb-43a1-a400-45cf8e2d1e0c)
+
 
 
 **Calculation:**
 
+![WhatsApp Image 2026-03-17 at 8 27 31 PM](https://github.com/user-attachments/assets/f90f7dd7-d384-423d-8c1a-7bc8b80dd01c)
+![WhatsApp Image 2026-03-17 at 8 28 43 PM](https://github.com/user-attachments/assets/b9641f66-8b72-45d1-94dd-f67cfe0507ab)
 
 
 **Marksplitup:**
+![WhatsApp Image 2026-03-17 at 8 30 46 PM](https://github.com/user-attachments/assets/ef1aaafa-6d48-4f4d-b894-b61809e1e0be)
 
 
 **RESULT:**
