@@ -1,4 +1,3 @@
-![WhatsApp Image 2026-03-17 at 8 23 42 PM](https://github.com/user-attachments/assets/42a98623-531f-4c66-a19f-d3891fc937df)# 8.TRANSIENT-ANALYSIS-OF-SERIES-RLC-CIRCUIT
 
 **AIM:**
 
